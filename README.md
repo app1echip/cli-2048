@@ -34,5 +34,3 @@ Super Easy Game.
 ### Windows
 * VS Code with MinGW-w64
 * Dev-C++
-## Copyright
-    2018 Fang Haonan All Rights Reserved
