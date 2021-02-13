@@ -1,11 +1,3 @@
-/*
- * name : 2048.c
- * author : Fang Haonan
- * e-mail: yougoon@live.cn
- * date: 2018/12/21
- * description: simple 2048 game for Windows
- */
-
 #include "2048.h"
 
 playground board, board_PREV, board_TEMP;
